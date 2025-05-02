@@ -1,2 +1,2 @@
 # Land_lister_F
-This is a land listing website. Builded using HTML, CSS, PHP, SQL and JS.
+This is a land listing website. Builded using HTML, CSS, PHP and SQL.
